@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Fernando Nathaniel Sutanto</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Fernando Nathaniel Sutanto.</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
