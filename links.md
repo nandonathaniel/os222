@@ -13,6 +13,10 @@ permalink: LINKS/
 # LINKS
 
 ## Week 1
-1. [TLX](https://tlx.toki.id/)<br>
+1. [OS](https://os.vlsm.org/)<br>
+    Amazing website with clear instructions for Operating Systems CSUI. Kudos to Pak RMS!
+2. [TLX](https://tlx.toki.id/)<br>
     This link helped me a lot when started learn Competitive Programming.
+3. [CHE](https://www.youtube.com/watch?v=qo86o0FllcY)<br>
+    A lot of joy and happiness. Clearly one of the best moments in my life!
 <br>
