@@ -32,3 +32,11 @@ Clear Introduction about C in Indonesian.
 2. [Cyber Security in 7 minutes](https://www.youtube.com/watch?v=inWWhr5tnEA)<br/>
 Simple and clear explanation about Cyber Security. Another nice visual and well prepared video.
 <br>
+
+## Week 3
+1. [File System & Fuse Recording Class SOSI 20/21](https://www.youtube.com/watch?v=PBkZynNIZWk)<br/>
+Clear Explanation from Mr. Muhammad Anwar Ma’sum about File System & Fuse in Indonesian.
+2. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br/>
+This is a well prepared video and has a lot of knowledge even though only 100 seconds.
+3. [File System Video](https://youtu.be/KN8YgJnShPM)<br/>
+Another clear video and well explained. I like this!
