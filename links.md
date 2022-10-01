@@ -40,3 +40,11 @@ Clear Explanation from Mr. Muhammad Anwar Ma’sum about File System & Fuse in I
 This is a well prepared video and has a lot of knowledge even though only 100 seconds.
 3. [File System Video](https://youtu.be/KN8YgJnShPM)<br/>
 Another clear video and well explained. I like this!
+
+## Week 4
+1. [Operating System Tutorial](https://www.tutorialspoint.com/operating_system/index.htm)<br/>
+Tutorial to learn Operating System.
+2. [Why Linux Is Better For Programming](https://www.youtube.com/watch?v=otDOHt_Jges)<br/>
+Another clear video and well explained. I like this!
+3. [The Linux Programming Interface Book](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)<br/>
+Kudos to Michael Kerrisk for this amazing book!
