@@ -48,3 +48,11 @@ Tutorial to learn Operating System.
 Another clear video and well explained. I like this!
 3. [The Linux Programming Interface Book](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)<br/>
 Kudos to Michael Kerrisk for this amazing book!
+
+## Week 5
+1. [What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ)<br/>
+Tutorial to learn virtual memory, great video.
+2. [Cache Memory](https://www.youtube.com/watch?v=Zr8WKIOIKsk)<br/>
+Another clear video and well explained. I like this!
+3. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br/>
+Another clear video and well explained. I like this a lot!
