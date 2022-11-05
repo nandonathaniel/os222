@@ -56,3 +56,11 @@ Tutorial to learn virtual memory, great video.
 Another clear video and well explained. I like this!
 3. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br/>
 Another clear video and well explained. I like this a lot!
+
+## Week 6
+1. [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes#:~:text=Process%20in%20Operating%20System,be%20a%20'passive'%20entity.)<br/>
+Learn a lot from this article.
+2. [Process vs Threads](https://www.youtube.com/watch?v=ITc09gOrqZk)<br/>
+Another clear video and well explained. I like this!
+3. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)<br/>
+Clear explanation! I like this!
