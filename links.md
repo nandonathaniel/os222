@@ -64,3 +64,11 @@ Learn a lot from this article.
 Another clear video and well explained. I like this!
 3. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/)<br/>
 Clear explanation! I like this!
+
+## Week 7
+1. [Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br/>
+Learn a lot about Synchronization in this amazing video.
+2. [Deadlock](https://www.youtube.com/watch?v=FVmwvZNQgt0)<br/>
+Simple and clear explanation.
+3. [Recording W08 SOSI 21/22](https://www.youtube.com/watch?v=Z5D3z3AzXII)<br/>
+Clear Explanation from Mr. Muhammad Anwar about Threads, Syncrhonization, Deadlock in Indonesian.
