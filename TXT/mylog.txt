@@ -88,3 +88,14 @@ ZCZC W07 45 L05 Quiz related including studying
 ZCZC W07 45 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 180 L17 Assignment #07
 ZCZC W07 60 L32 YouTube: watching OS related topics, etc.
+
+ZCZC W08 30 L00 General, etc.
+ZCZC W08 20 L01 SCELE related
+ZCZC W08 110 L02 ZOOM meetings related
+ZCZC W08 110 L99 Face-to-face lecture
+ZCZC W08 30 L03 Github related
+ZCZC W08 15 L04 GitHub Pages related
+ZCZC W08 45 L05 Quiz related including studying
+ZCZC W08 75 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 540 L17 Assignment #07
+ZCZC W08 60 L32 YouTube: watching OS related topics, etc.

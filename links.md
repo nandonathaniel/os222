@@ -72,3 +72,12 @@ Learn a lot about Synchronization in this amazing video.
 Simple and clear explanation.
 3. [Recording W08 SOSI 21/22](https://www.youtube.com/watch?v=Z5D3z3AzXII)<br/>
 Clear Explanation from Mr. Muhammad Anwar about Threads, Syncrhonization, Deadlock in Indonesian.
+
+## Week 8
+1. [MLQ](https://www.geeksforgeeks.org/multilevel-queue-mlq-cpu-scheduling/)<br/>
+Learn a lot about MLQ from this article
+2. [Round Robin](https://www.guru99.com/round-robin-scheduling-example.html)<br/>
+Simple and clear explanation.
+3. [MLQ Video](https://www.youtube.com/watch?v=hBPYP0ZEvS8)<br/>
+Amazing video and clear explanation
+
